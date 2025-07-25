@@ -5,7 +5,7 @@ public class day3_test2 {
 
         int a = 3 , b = 5 ;
      //   int result = 조건식 ? 참일때 : 거짓일때 ;
-        int result = a >=b ? a-b : b-a;
+        int result = a >= b ? a-b : b-a;
        // 삼항 연산자 or 조건부 연산자
         System.out.println("절대 값 :" + result);
 
