@@ -1,6 +1,6 @@
 package ch02_control_statement;
 
-public class TEST_1 {
+public class if_TEST_1 {
     public static void main(String[] args) {
         int su1 = 100 , su2 = 50 ;
         if(su1 >= su2){

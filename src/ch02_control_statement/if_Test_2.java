@@ -1,6 +1,6 @@
 package ch02_control_statement;
 
-public class Test_2 {
+public class if_Test_2 {
     public static void main(String[] args) {
         int su = 3 ;
         if(su%3==0){

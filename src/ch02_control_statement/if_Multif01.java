@@ -1,6 +1,6 @@
 package ch02_control_statement;
 
-public class Multif01 {
+public class if_Multif01 {
     public static void main(String[] args) {
         int temperature = 24;
         String tem;

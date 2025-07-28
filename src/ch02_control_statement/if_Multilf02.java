@@ -1,6 +1,6 @@
 package ch02_control_statement;
 
-public class Multilf02 {
+public class if_Multilf02 {
     public static void main(String[] args) {
         int age = 15;
         double ticket = 1000.0;

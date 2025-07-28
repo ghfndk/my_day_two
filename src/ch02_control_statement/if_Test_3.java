@@ -1,6 +1,6 @@
 package ch02_control_statement;
 
-public class Test_3 {
+public class if_Test_3 {
     public static void main(String[] args) {
         int month = 8;
         String season;
