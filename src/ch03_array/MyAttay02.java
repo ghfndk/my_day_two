@@ -7,7 +7,16 @@ public class MyAttay02 {
         a[1] = 20 ;
         a[2] = 30 ;
         for (int i = 0; i < a.length ; i++) {
-            System.out.print("a["+i+"]="+a[i]+", ");
+            System.out.println("a["+i+"]="+a[i]+", ");
         }
+        int[] b =new int[20];
+
+        for (int i = 0; i < b.length; i++) {
+            b[i] = 5 * i + 3;
+            System.out.print(b[i] + " ");
+        }
+
+        int[] c = new int [10] ;
+
     }
 }

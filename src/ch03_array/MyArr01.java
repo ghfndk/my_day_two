@@ -26,7 +26,7 @@ public class MyArr01 {
         System.out.println("배열의 초기화 기법");
         int[] arr2 = {10, 20, 30};//{}를 사용한 초기화 기법
         for (int i = 0; i < arr2.length ; i++) {
-            System.out.println("arr2{"+i+"]=" + arr[i]);
+            System.out.println("arr2{"+i+"]=" + arr2[i]);
         }
     }
 }
